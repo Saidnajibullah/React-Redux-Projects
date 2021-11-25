@@ -1,0 +1,10 @@
+.search-container{
+    margin-top: 25px;
+    text-align: center;
+}
+.search-container :first-child{
+    width: 60%;
+}
+.pointer{
+    cursor: pointer;
+}
