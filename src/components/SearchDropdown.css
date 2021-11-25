@@ -1,0 +1,18 @@
+.search-dropdown .show{
+    display: block;
+    margin-top: 10px;
+}
+.search-dropdown .hide{
+    display: none;
+}
+.search-dropdown input{
+    border: none;
+    width: 90%;
+    height: 30px;
+    position: absolute;
+    top: 3px;
+    outline: none;
+}
+.search-dropdown div.item{
+    padding: 10px 0px;
+}
