@@ -1,0 +1,6 @@
+.video-detail{
+    display: flex;
+    flex-direction: column;
+    flex-basis: 65%;
+    height: 400px;
+}
