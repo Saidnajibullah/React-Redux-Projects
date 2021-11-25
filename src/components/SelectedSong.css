@@ -1,0 +1,6 @@
+.selected-song-container{
+    width: 50%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
