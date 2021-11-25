@@ -1,5 +1,5 @@
 import axios from "axios";
-
+import { key } from '../../../google-api-key'
 //https://console.developers.google.com
 
 export default axios.create({
@@ -8,6 +8,6 @@ export default axios.create({
         part: 'snippet',
         type: 'video',
         maxResults: 10,
-        key: 'AIzaSyDf_YmqWJAo1QqYKokuxkbC_eTgNm_84CY'
+        key: key
     }
 })
